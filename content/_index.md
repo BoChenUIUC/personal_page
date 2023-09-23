@@ -109,17 +109,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     id: featured
     content:
@@ -195,6 +195,6 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
 ---
