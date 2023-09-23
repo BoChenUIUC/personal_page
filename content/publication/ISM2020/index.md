@@ -29,7 +29,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: "2020 IEEE International Symposium on Multimedia"
-publication_short: "ISM20"
+publication_short: "ISM'20"
 
 # abstract: Todo.
 
@@ -39,7 +39,7 @@ publication_short: "ISM20"
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

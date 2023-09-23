@@ -1,23 +1,23 @@
 ---
-title: "FIS: Facial Information Segmentation for Video Redaction"
+title: "Neural Image Compression with Quantization Rectifier"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Wei Luo
   - Bo Chen
-  - Klara Nahrstedt
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2019-04-25T00:00:00Z'
-doi: '10.1109/MIPR.2019.00071'
+date: '2023-07-11T00:00:00Z'
+# doi: '10.1145/3524273.3528178'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-04-25T00:00:00Z'
+publishDate: '2023-07-11T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: '2019-04-25T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: "2019 IEEE Conference on Multimedia Information Processing and Retrieval"
-publication_short: "MIPR'19"
+publication: "ICML 2023 Workshop Neural Compression: From Information Theory to Applications"
+publication_short: "NCW ICML 2023"
 
 # abstract: Todo.
 
@@ -37,14 +37,14 @@ publication_short: "MIPR'19"
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1109/MIPR.2019.00071'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3524273.3528178'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''

@@ -32,7 +32,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: "AIChallengeIoT, workshop co-located with ACM SenSys 2021"
-publication_short: "AIChallengeIoT21"
+publication_short: "AIChallengeIoT Sensys 2021"
 
 # abstract: Todo.
 
@@ -42,7 +42,7 @@ publication_short: "AIChallengeIoT21"
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

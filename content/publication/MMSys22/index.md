@@ -1,5 +1,5 @@
 ---
-title: Context-aware Image Compression Optimization for Visual Analytics Offloading
+title: "[Best Student Paper] Context-aware Image Compression Optimization for Visual Analytics Offloading"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

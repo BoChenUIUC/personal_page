@@ -2,7 +2,7 @@
 title: "REACTIQ: Resilient, Efficient and Accurate Query Serving via Conjugate Computation"
 authors:
 - Bo Chen
-# date: "2019-04-07T00:00:00Z"
+date: "2023-09-21T00:00:00Z"
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
