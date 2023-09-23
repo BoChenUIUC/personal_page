@@ -27,7 +27,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: "The 12th ACM Multimedia Systems Conference"
-publication_short: "MMSys21"
+publication_short: "MMSys'21"
 
 # abstract: Todo.
 
