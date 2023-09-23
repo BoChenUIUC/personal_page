@@ -1,0 +1,11 @@
+{
+  "name": "personal_page",
+  "version": "1.0.0",
+  "description": "[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
