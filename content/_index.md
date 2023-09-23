@@ -142,6 +142,28 @@ sections:
     design:
       columns: '2'
       view: list
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
+    design:
+      columns: '2'
+      view: citation
   # - block: collection
   #   id: featured
   #   content:
