@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Associate
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -34,14 +34,14 @@ interests:
 education:
   courses:
     - course: Postdoc in Computer Science
-      institution: UIUC
-      year: 2022
+      institution: University of Illinois at Urbana-Champaign
+      year: 2023
     - course: PhD in Computer Science
-      institution: UIUC
-      year: 2016
+      institution: University of Illinois at Urbana-Champaign
+      year: 2022
     - course: BS in Information Engineering
       institution: Shanghai Jiao Tong University
-      year: 2012
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
