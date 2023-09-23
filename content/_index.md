@@ -141,7 +141,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: list
   - block: collection
     id: featured
     content:
@@ -176,7 +176,7 @@ sections:
   #     text: |-
   #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
   #     # Contact (add or remove contact options as necessary)
-      email: boc2@illinois.edu
+      email: boc2 at illinois dot edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
