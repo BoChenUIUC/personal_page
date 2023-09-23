@@ -22,7 +22,7 @@ organizations:
     url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) advised by Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU).
+bio: Bo Chen's research interests span across networking & systems, image/video processing, and machine learning.
 
 # Interests to show in About widget
 interests:
