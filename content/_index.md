@@ -134,7 +134,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Selected Publications
       filters:
         folders:
           - publication
@@ -145,11 +145,11 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: All Publications/Submissions
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
