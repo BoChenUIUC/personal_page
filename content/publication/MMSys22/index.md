@@ -27,13 +27,13 @@ publishDate: '2022-08-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In the 13th ACM Multimedia Systems Conference
-publication_short: In MMSys22
+publication: "The 13th ACM Multimedia Systems Conference"
+publication_short: "MMSys22"
 
-abstract: Todo.
+# abstract: Todo.
 
 # Summary. An optional shortened abstract.
-summary: Todo.
+# summary: Todo.
 
 tags: []
 
