@@ -1,23 +1,26 @@
 ---
-title: "Neural Image Compression with Quantization Rectifier"
+title: "Contrastive topic evolution discovery via nonnegative matrix factorization"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Wei Luo
+  - Qianru Li
   - Bo Chen
+  - Songjun Ma
+  - Luoyi Fu
+  - Xinbing Wang
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-07-11T00:00:00Z'
-# doi: '10.1145/3524273.3528178'
+date: '2016-07-14T00:00:00Z'
+doi: '10.1109/ICC.2016.7511395'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-07-11T00:00:00Z'
+publishDate: '2016-07-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +29,8 @@ publishDate: '2023-07-11T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: "ICML 2023 Workshop Neural Compression: From Information Theory to Applications"
-publication_short: "NCW ICML 2023"
+publication: "2016 IEEE International Conference on Communications"
+publication_short: "ICC'16"
 
 # abstract: Todo.
 
@@ -37,14 +40,14 @@ publication_short: "NCW ICML 2023"
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3524273.3528178'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1109/ICC.2016.7511395'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
