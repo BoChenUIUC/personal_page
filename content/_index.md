@@ -26,27 +26,21 @@ sections:
         - title: Postdoc
           company: UIUC
           company_url: 'https://illinois.edu/'
-          company_logo: org-uiuc
+          company_logo: org-uiuc.png
           location: Urbana-Champaign
           date_start: '2022-09-01'
           date_end: ''
         - title: Ph.D.
           company: UIUC
           company_url: 'https://illinois.edu/'
-          company_logo: org-uiuc
+          company_logo: org-uiuc.png
           location: Urbana-Champaign
           date_start: '2016-09-01'
           date_end: '2022-05-01'
-          # description: |2-
-          #     Responsibilities include:
-
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
         - title: Undergraduate
           company: Shanghai Jiao Tong University
           company_url: ''
-          company_logo: org-sjtu
+          company_logo: org-sjtu.png
           location: California
           date_start: '2012-09-01'
           date_end: '2016-06-01'
