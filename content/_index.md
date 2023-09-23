@@ -138,43 +138,21 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: false
-    design:
-      columns: '2'
-      view: list
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: false
-    design:
-      columns: '2'
-      view: compact
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        featured_only: false
+        featured_only: true
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     id: talks
     content:
