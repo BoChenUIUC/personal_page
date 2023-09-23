@@ -37,6 +37,20 @@ sections:
           location: Urbana-Champaign
           date_start: '2016-09-01'
           date_end: '2022-05-01'
+        - title: Student Intern
+          company: Meta
+          company_url: 'https://www.facebook.com/Meta/'
+          company_logo: org-meta
+          location: Menlo Park, CA
+          date_start: '2020-05-01'
+          date_end: '2020-08-01'
+        - title: Research Intern
+          company: AT&T
+          company_url: 'https://www.att.com/'
+          company_logo: org-att
+          location: Bedminster, NJ
+          date_start: '2019-05-01'
+          date_end: '2019-07-01'
         - title: Undergraduate
           company: Shanghai Jiao Tong University
           company_url: 'https://www.sjtu.edu.cn/'
@@ -44,6 +58,14 @@ sections:
           location: Shanghai, China
           date_start: '2012-09-01'
           date_end: '2016-06-01'
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: High School
+          company: Fuzhou No.1 High School
+          company_url: 'http://www.fzyz.net/#/'
+          company_logo: org-fzyz
+          location: Shanghai, China
+          date_start: '2009-09-01'
+          date_end: '2012-06-01'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
