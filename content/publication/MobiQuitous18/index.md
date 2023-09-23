@@ -1,24 +1,24 @@
 ---
-title: Context-aware Image Compression Optimization for Visual Analytics Offloading
+title: "ReSPonSe: Real-time, Secure, and Privacy-aware Video Redaction System"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Bo Chen
-  - Zhisheng Yan
   - Klara Nahrstedt
+  - Carl Gunter
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-08-05T00:00:00Z'
-doi: '10.1145/3524273.3528178'
+date: '2018-11-05T00:00:00Z'
+doi: '10.1145/3286978.3286990'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-05T00:00:00Z'
+publishDate: '2021-01-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,8 +27,8 @@ publishDate: '2022-08-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: "The 13th ACM Multimedia Systems Conference"
-publication_short: "MMSys'22"
+publication: "Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services"
+publication_short: "MobiQuitous'18"
 
 # abstract: Todo.
 
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3524273.3528178'
+url_pdf: 'https://doi.org/10.1145/3286978.3286990'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''

@@ -1,5 +1,5 @@
 ---
-title: Context-aware Image Compression Optimization for Visual Analytics Offloading
+title: Deep Contextualized Compressive Offloading for Images
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,6 +7,10 @@ title: Context-aware Image Compression Optimization for Visual Analytics Offload
 authors:
   - Bo Chen
   - Zhisheng Yan
+  - Hongpeng Guo
+  - Zhe Yang
+  - Ahmed Ali-Eldin
+  - Prashant Shenoy
   - Klara Nahrstedt
 
 # Author notes (optional)
@@ -14,11 +18,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-08-05T00:00:00Z'
-doi: '10.1145/3524273.3528178'
+date: '2021-11-15T00:00:00Z'
+doi: '10.1145/3485730.3493452'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-05T00:00:00Z'
+publishDate: '2021-11-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,8 +31,8 @@ publishDate: '2022-08-05T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: "The 13th ACM Multimedia Systems Conference"
-publication_short: "MMSys'22"
+publication: "AIChallengeIoT, workshop co-located with ACM SenSys 2021"
+publication_short: "AIChallengeIoT21"
 
 # abstract: Todo.
 
@@ -45,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3524273.3528178'
+url_pdf: 'https://doi.org/10.1145/3485730.3493452'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
