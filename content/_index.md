@@ -26,21 +26,21 @@ sections:
         - title: Postdoc
           company: University of Illinois at Urbana-Champaign
           company_url: 'https://illinois.edu/'
-          company_logo: org-x
+          company_logo: org-uiuc
           location: Urbana-Champaign
           date_start: '2022-09-01'
           date_end: ''
         - title: Ph.D.
           company: University of Illinois at Urbana-Champaign
           company_url: 'https://illinois.edu/'
-          company_logo: org-x
+          company_logo: org-uiuc
           location: Urbana-Champaign
           date_start: '2016-09-01'
           date_end: '2022-05-01'
         - title: Undergraduate
           company: Shanghai Jiao Tong University
           company_url: 'https://www.sjtu.edu.cn/'
-          company_logo: org-x
+          company_logo: org-sjtu
           location: Shanghai, China
           date_start: '2012-09-01'
           date_end: '2016-06-01'
