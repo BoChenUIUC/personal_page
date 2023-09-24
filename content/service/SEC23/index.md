@@ -1,5 +1,5 @@
 ---
-title: "Symposium on Edge Computing"
+title: "Symposium on Edge Computing 2023 (TPC Member)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -17,13 +17,13 @@ summary: TPC Member
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-data: '2023'
+
 # date: '2022-09-01T00:00:00Z'
 # date_end: '2022-012-031T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2020-01-01T00:00:00Z'
+# publishDate: '2020-01-01T00:00:00Z'
 
 authors: []
 tags: []
