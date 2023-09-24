@@ -71,7 +71,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) advised by Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU).
+This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) advised by Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU). My research interests span across networking & systems, image/video processing, and machine learning.
 {style="text-align: justify;"}
