@@ -1,5 +1,5 @@
 ---
-title: "ACM Multimedia 2023 (Reviewer)"
+title: "ACM MM 2023 (Reviewer)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org

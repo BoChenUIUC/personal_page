@@ -1,5 +1,5 @@
 ---
-title: "Best Paper Award (IEEE International Symposium on Multimedia 2022)"
+title: "Best Paper Award (IEEE ISM 2022)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org

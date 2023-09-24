@@ -1,5 +1,5 @@
 ---
-title: "CS 537 Advanced Topics in IOT (2022)"
+title: "CS 537 Advanced Topics in IOT, Teaching Assistant, UIUC (2022)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org

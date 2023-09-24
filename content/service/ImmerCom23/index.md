@@ -1,5 +1,5 @@
 ---
-title: "ACM Workshop on Mobile Immersive Computing, Networking, and Systems 2023 (TPC Member)"
+title: "ImmerCom 2023 (TPC Member)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org

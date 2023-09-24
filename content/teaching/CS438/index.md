@@ -1,5 +1,5 @@
 ---
-title: "CS 438 Communication Networks (2020)"
+title: "CS 438 Communication Networks, Teaching Assistant, UIUC (2020)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org

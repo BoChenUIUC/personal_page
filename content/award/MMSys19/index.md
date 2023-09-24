@@ -1,5 +1,5 @@
 ---
-title: "SIGMM Travel Grant (ACM Multimedia Systems Conference 2019)"
+title: "SIGMM Travel Grant (ACM MMSys 2019)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org

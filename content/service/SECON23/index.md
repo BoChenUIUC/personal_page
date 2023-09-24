@@ -1,5 +1,5 @@
 ---
-title: "IEEE International Conference on Sensing, Communication, and Networking 2023 (Publication Chair)"
+title: "IEEE SECON 2023 (Publication Chair)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org
