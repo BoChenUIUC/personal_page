@@ -1,5 +1,5 @@
 ---
-title: "Symposium on Edge Computing 2023 (TPC Member)"
+title: "2023 Symposium on Edge Computing (TPC Member)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org

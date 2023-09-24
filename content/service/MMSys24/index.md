@@ -1,5 +1,5 @@
 ---
-title: "ACM MMSys 2024 (TPC Member)"
+title: "2024 ACM MMSys (TPC Member)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org

@@ -1,5 +1,5 @@
 ---
-title: "ImmerCom 2023 (TPC Member)"
+title: "2023 ImmerCom (TPC Member)"
 
 # event: Wowchemy Conference
 # event_url: https://example.org
