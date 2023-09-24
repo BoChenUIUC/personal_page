@@ -6,7 +6,7 @@ title: "Contrastive topic evolution discovery via nonnegative matrix factorizati
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Qianru Li
-  - __Bo Chen__
+  - <b>Bo Chen</b>
   - Songjun Ma
   - Luoyi Fu
   - Xinbing Wang
