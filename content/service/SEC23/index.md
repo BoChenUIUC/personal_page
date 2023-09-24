@@ -1,5 +1,5 @@
 ---
-title: "CS 438 Communication Networks"
+title: "Symposium on Edge Computing"
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -12,13 +12,14 @@ title: "CS 438 Communication Networks"
 #   postcode: '94305'
 #   country: United States
 
-summary: Teaching Assistant
+summary: TPC Member
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-09-01T13:00:00Z'
-date_end: '2020-09-01T15:00:00Z'
+data: '2023'
+# date: '2022-09-01T00:00:00Z'
+# date_end: '2022-012-031T00:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

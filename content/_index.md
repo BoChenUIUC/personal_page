@@ -154,12 +154,32 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: teaching
     content:
       title: Teaching
       filters:
         folders:
-          - event
+          - teaching
+    design:
+      columns: '2'
+      view: list
+  - block: collection
+    id: awards
+    content:
+      title: Awards
+      filters:
+        folders:
+          - award
+    design:
+      columns: '2'
+      view: list
+  - block: collection
+    id: services
+    content:
+      title: Services
+      filters:
+        folders:
+          - service
     design:
       columns: '2'
       view: list
