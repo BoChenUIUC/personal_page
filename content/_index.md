@@ -63,7 +63,7 @@ sections:
           company: Fuzhou No.1 High School
           company_url: 'http://www.fzyz.net/#/'
           company_logo: org-fzyz
-          location: Shanghai, China
+          location: Fuzhou, Fujian
           date_start: '2009-09-01'
           date_end: '2012-06-01'
           # description: Taught electronic engineering and researched semiconductor physics.
