@@ -81,4 +81,6 @@ highlight_name: true
 ---
 
 This is Bo Chen, a postdoc at University of Illinois at Urbana-Champaign (UIUC) working with Prof. Klara Nahrstedt. I obtained my Ph.D. in computer science at UIUC in 2022, advised by Prof. Klara Nahrstedt. Before coming to UIUC, I got my B.E. degree from Shanghai Jiao Tong University (SJTU). My advisor was Prof. Xinbing Wang. My research interests span across networking & systems, image/video processing, and machine learning. In particular, my goal is to build image/video processing systems with machine learning that are low-latency, high-precision and fault-tolerant.
+
+I am now actively looking for tenure-track faculty positions. Feel free to ping me if you have any openings.
 {style="text-align: justify;"}
