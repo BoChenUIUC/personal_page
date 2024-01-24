@@ -1,11 +1,14 @@
 ---
-title: "EScALation: A Framework for Efficient and Scalable Spatio-temporal Action Localization"
+title: "Vesper: Learning to Manage Uncertainty in Video Streaming"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Bo Chen
+  - Mingyuan Wu
+  - Hongpeng Guo
+  - Zhisheng Yan
   - Klara Nahrstedt
 
 # Author notes (optional)
@@ -13,11 +16,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-07-15T00:00:00Z'
-doi: '10.1145/3458305.3459598'
+# date: '2022-08-05T00:00:00Z'
+# doi: '10.1145/3524273.3528178'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-07-15T00:00:00Z'
+# publishDate: '2022-08-05T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +29,8 @@ publishDate: '2021-07-15T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: "The 12th ACM Multimedia Systems Conference"
-publication_short: "MMSys'21"
+publication: "The 15th ACM Multimedia Systems Conference"
+publication_short: "MMSys'24"
 
 # abstract: Todo.
 
@@ -37,14 +40,14 @@ publication_short: "MMSys'21"
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1145/3458305.3459598'
+# url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3524273.3528178'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
